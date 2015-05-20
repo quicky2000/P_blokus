@@ -4,3 +4,17 @@
 
 P_blokus is the integration repository for blokus utility.
  
+# Subtrees
+#----------
+git@github.com:quicky2000/blokus.git
+git@github.com:quicky2000/blokus_FSM.git
+git@github.com:quicky2000/blokus_TextUi.git
+git@github.com:quicky2000/blokus_SdlUi.git
+git@github.com:quicky2000/FSM_base.git
+git@github.com:quicky2000/FSM_framework.git
+git@github.com:quicky2000/FSM_interfaces.git
+git@github.com:quicky2000/simple_gui.git
+git@github.com:quicky2000/quicky_exception.git
+git@github.com:quicky2000/quicky_tools.git
+#EOF
+

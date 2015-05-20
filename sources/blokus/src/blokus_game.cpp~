@@ -1,0 +1,9 @@
+#include "blokus_game.h"
+
+namespace blokus
+{
+  std::map<uint32_t,shape> blokus_game::m_unique_shapes;
+  std::multimap<uint32_t,shape> blokus_game::m_all_shapes;
+}
+
+//EOF

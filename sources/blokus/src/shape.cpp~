@@ -1,0 +1,6 @@
+#include "shape.h"
+
+namespace blokus
+{
+  uint32_t shape::m_unique_id = 0;
+}

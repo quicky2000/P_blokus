@@ -1,0 +1,14 @@
+#ifndef _BLOKUS_H_
+#define _BLOKUS_H_
+
+namespace blokus
+{
+  class blokus
+  {
+  public:
+  private:
+  };
+}
+
+#endif // _BLOKUS_H_
+//EOF

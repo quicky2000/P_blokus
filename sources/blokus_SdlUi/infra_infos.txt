@@ -1,0 +1,4 @@
+depend:blokus simple_gui
+CFLAGS:-Wall -g -D__STDC_LIMIT_MACROS
+LDFLAGS:
+

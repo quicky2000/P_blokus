@@ -1,0 +1,3 @@
+depend:FSM_interfaces quicky_exception
+LDFLAGS:-ldl
+CFLAGS:

@@ -1,0 +1,4 @@
+depend:blokus FSM_base
+CFLAGS:-Wall -g -D__STDC_LIMIT_MACROS
+LDFLAGS:
+

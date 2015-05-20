@@ -1,0 +1,14 @@
+#ifndef _BLOKUS_TYPES_H_
+#define _BLOKUS_TYPES_H_
+
+namespace blokus
+{
+  class blokus_types
+  {
+  public:
+    typedef enum {BLUE=1,YELLOW,RED,GREEN} t_blokus_color;
+  private:
+  };
+}
+#endif // _BLOKUS_TYPES_H_
+//EOF 
